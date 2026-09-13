@@ -1,4 +1,4 @@
-# 0x7aidra — Cyber Operations & AI Portfolio
+# 0x7aidra — Cyber Operations
 
 ![Portfolio Status](https://img.shields.io/badge/Status-Active-00ff66?style=flat-square&logo=terminal&logoColor=000000)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
